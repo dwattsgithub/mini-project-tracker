@@ -32,9 +32,8 @@ To run Project Tracker locally on your machine, follow these steps:
 
 ## Mockup
 Here is a screenshot of the Project Tracker application:
-![Screenshot of Project Tracker](<screenshot-path>)
 
-(<Wk4-Third-Party-API-HW/index.html>)
+![Screenshot](https://github.com/dwattsgithub/mini-project-tracker/assets/122656379/da89d7ee-b5a7-4c76-b7c1-d9ac5b8bd36b)
 
 ## Usage
 1. Launch the Project Tracker application in your web browser by opening the `index.html` file.
