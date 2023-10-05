@@ -25,10 +25,11 @@ While developing Project Tracker, we learned how to use Bootstrap for responsive
 To run Project Tracker locally on your machine, follow these steps:
 
 1. Clone the GitHub repository:
+[(https://github.com/dwattsgithub/mini-project-tracker.git)]
 
-2. Open the project folder:
+3. Open the project folder:
 
-3. Open the `index.html` file in your web browser to use the application.
+4. Open the `index.html` file in your web browser to use the application.
 
 ## Mockup
 Here is a screenshot of the Project Tracker application:
